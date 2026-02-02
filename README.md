@@ -6,6 +6,9 @@ Este projeto consiste em um sistema de cursos desenvolvido com base nos princíp
 
 O sistema foi criado com foco educacional, sendo ideal para estudo e prática de conceitos fundamentais de POO.
 
+![Demonstração do Sistema](projeto_associacao_sistema_escolar_foto.png)
+
+
 ---
 
 ## Objetivos
